@@ -1,0 +1,62 @@
+body {
+    background-color: #F7F8FD;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.heading-card {
+    background-image: url("/img/bg-main.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.btn-bg-color {
+    background-color: #F2F4FF;
+    font-weight: 600;
+    transition: ease 1s;
+}
+
+.btn-bg-color:hover {
+    background-color:#CFD7FF;
+}
+
+
+.roadmap {
+    color: #3A4374;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: -0.25px;
+}
+
+.view {
+     color:#2a3ca3;
+     cursor: pointer;
+}
+
+.view:hover {
+    color:#8397F8;
+}
+
+.dots {
+    width:10px;
+    height: 10px;
+    display: inline-block;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.orange-dot {
+    background-color: #F49F85;;
+}
+
+.purple-dot {
+    background-color: #AD1FEA;
+}
+
+.numbers {
+    color: #647196;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 23px;
+}
